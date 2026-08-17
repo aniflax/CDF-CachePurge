@@ -1,4 +1,4 @@
-# Cloudflare Cache Purge
+# Cloudflare-s-cache-purge
 
 A tiny, dependency-free shell script to purge the Cloudflare edge cache for **any** Cloudflare-managed website.
 
