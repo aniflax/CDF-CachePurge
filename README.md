@@ -1,6 +1,8 @@
-# Solution for Cloudflare's cache purge
+# CDF-CachePurge
 
-A tiny, dependency-free shell script to purge the Cloudflare edge cache for **any** Cloudflare-managed website.
+> A tiny, dependency-free shell script to purge the Cloudflare edge cache for **any** Cloudflare-managed website.
+
+Built by [aniflax](https://github.com/aniflax). Licensed under the [MIT License](./LICENSE).
 
 Paste the script into any project, add two lines of config, and run it whenever the edge is serving stale content. Works on macOS and Linux (uses only `curl` and `grep`).
 
